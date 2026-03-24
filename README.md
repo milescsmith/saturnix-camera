@@ -74,6 +74,46 @@ STL files for the camera case are available in the [`hardware/`](hardware/) dire
 
 ---
 
+## Camera Photo
+
+<p align="center">
+  <img src="docs/1.jpg" width="400">
+</p>
+
+<p align="center">
+  <img src="docs/2.jpg" width="400">
+</p>
+
+<p align="center">
+  <img src="docs/3.jpg" width="400">
+</p>
+
+<p align="center">
+  <img src="docs/4.jpg" width="400">
+</p>
+
+<p align="center">
+  <img src="docs/5.jpg" width="400">
+</p>
+
+---
+
+## UI Photo
+
+<p align="center">
+  <img src="docs/1_ui.jpg" width="400">
+</p>
+
+<p align="center">
+  <img src="docs/2_ui.jpg" width="400">
+</p>
+
+<p align="center">
+  <img src="docs/3_ui.jpg" width="400">
+</p>
+
+---
+
 ## Film Samples
 
 <p align="center">
@@ -94,30 +134,6 @@ STL files for the camera case are available in the [`hardware/`](hardware/) dire
 
 <p align="center">
   <img src="docs/Saturnix.jpg" width="400">
-</p>
-
----
-
-Camera Photo
-
-<p align="center">
-  <img src="docs/1.jpg" width="400">
-</p>
-
-<p align="center">
-  <img src="docs/2.jpg" width="400">
-</p>
-
-<p align="center">
-  <img src="docs/3.jpg" width="400">
-</p>
-
-<p align="center">
-  <img src="docs/4.jpg" width="400">
-</p>
-
-<p align="center">
-  <img src="docs/5.jpg" width="400">
 </p>
 
 ---

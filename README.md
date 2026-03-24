@@ -99,7 +99,11 @@ Add your photos here:
 - [ ] Status LED
 - [ ] Web-based configurator
 - [ ] Firmware update via USB
+- [ ] Camera body and design improvements
+- [ ] Firmware cleanup
 - [ ] Pre-built SD card image
+- [ ] Open source release preparation
+- [ ] Release
 
 ---
 
@@ -131,6 +135,6 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
-**Created by Bohdan Khmyz**
+**Created by Yutani140x**
 
 *SATURNIX — a camera that feels like film.*

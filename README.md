@@ -33,10 +33,10 @@ No apps. No cloud. Just a camera.
 
 **Film Simulations**
 - **SATURNIX** — signature preset: golden light, anime-style rendering, indigo shadows, bloom
-- **Kodak Gold 400** — warm, vintage, creamy tones
-- **Kodak Ektar 100** — hyper-saturated, razor sharp, deep colors
-- **Fujifilm 400** — cool greens, balanced tones
-- **Kodak Tri-X 400** — classic black & white, deep blacks, rich grain
+- **Gold 400** — warm, vintage, creamy tones
+- **Ektar 100** — hyper-saturated, razor sharp, deep colors
+- **Fuji 400** — cool greens, balanced tones
+- **TriX 400** — classic black & white, deep blacks, rich grain
 - **VHS** — lo-fi tape look: scanlines, chromatic aberration, noise
 
 **Interface**
@@ -127,7 +127,7 @@ No filter
 </p>
 
 
-Kodak Gold
+Gold
 <p align="center">
   <img src="docs/gold.jpg" width="400">
 </p>
@@ -139,7 +139,7 @@ Fuji
 </p>
 
 
-Kodak Tri-X
+TriX
 <p align="center">
   <img src="docs/TriX.jpg" width="400">
 </p>
@@ -184,11 +184,10 @@ Saturnix film **(in development)**
 - [x] Persistent settings
 - [x] Buzzer audio feedback
 - [x] Gallery with DNG support
+- [ ] **Camera body and design improvements** < **project at this stage**
 - [ ] Battery indicator (PiSugar2)
 - [ ] Status LED
-- [ ] Web-based configurator
 - [ ] Firmware update via USB
-- [ ] Camera body and design improvements
 - [ ] Firmware cleanup
 - [ ] Pre-built SD card image
 - [ ] Open source release preparation
